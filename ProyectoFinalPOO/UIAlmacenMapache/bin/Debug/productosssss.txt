@@ -1,0 +1,11 @@
+.* producto # codigo # stock # precio
+.- kit # codigo kit # codigo pdtos
+*Balón Fútbol#1#1#0
+*Portería#2#1#0
+*Bola Béisbol#3#1#0
+*Bate Béisbol#4#1#0
+*Guante Béisbol#5#1#0
+*Termo#6#0#0
+*Tapete Yoga#7#2#0
+-Kit Fútbol#100#1#2
+-Kit Béisbol#110#3#4#5

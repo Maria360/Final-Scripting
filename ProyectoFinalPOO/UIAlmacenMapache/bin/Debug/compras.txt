@@ -1,0 +1,319 @@
+---> COMPRA No.1001
+	Fecha: 21/04/2021 10:05:51 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 15
+	Precio Und: 18325
+	Proveedor: Juan (A)
+	Subtotal: 274875
+	Total: 274875
+
+---> COMPRA No.9862
+	Fecha: 24/04/2021 03:49:05 p. m.
+	Producto: Bola Béisbol
+	Código: 3
+	Cantidad: 2
+	Precio Und: 3665
+	Proveedor: Kevin (AAA)
+	Subtotal: 7330
+	Total: 7330
+
+---> COMPRA No.9023
+	Fecha: 24/04/2021 04:56:33 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 2
+	Precio Und: 1539300
+	Proveedor: Juan (A)
+	Subtotal: 3078600
+	Total: 3078600
+
+---> COMPRA No.835
+	Fecha: 24/04/2021 04:56:45 p. m.
+	Producto: Termo
+	Código: 6
+	Cantidad: 1
+	Precio Und: 1
+	Proveedor: Camilo (AA)
+	Subtotal: 1
+	Total: 1.02
+
+---> COMPRA No.5302
+	Fecha: 24/04/2021 04:56:56 p. m.
+	Producto: Tapete Yoga
+	Código: 7
+	Cantidad: 6
+	Precio Und: 70000
+	Proveedor: Florencio (AAA)
+	Subtotal: 420000
+	Total: 428400
+
+---> COMPRA No.5004
+	Fecha: 24/04/2021 05:00:12 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 5
+	Precio Und: 1
+	Proveedor: Pepe (A)
+	Subtotal: 5
+	Total: 5.05
+
+---> COMPRA No.2363
+	Fecha: 24/04/2021 05:00:20 p. m.
+	Producto: Termo
+	Código: 6
+	Cantidad: 1
+	Precio Und: 12006565
+	Proveedor: Florencio (AAA)
+	Subtotal: 12006565
+	Total: 12246696.3
+
+---> COMPRA No.7013
+	Fecha: 24/04/2021 05:00:29 p. m.
+	Producto: Guante Béisbol
+	Código: 5
+	Cantidad: 3
+	Precio Und: 13000
+	Proveedor: Pepe (A)
+	Subtotal: 39000
+	Total: 39390
+
+---> COMPRA No.6232
+	Fecha: 24/04/2021 05:09:08 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 1
+	Precio Und: 18325000
+	Proveedor: Kevin (AAA)
+	Subtotal: 18325000
+	Total: 18325000
+
+---> COMPRA No.6939
+	Fecha: 24/04/2021 05:09:17 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 1
+	Precio Und: 1
+	Proveedor: Pepe (A)
+	Subtotal: 1
+	Total: 1.01
+
+---> COMPRA No.8168
+	Fecha: 24/04/2021 05:12:37 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 2
+	Precio Und: 164925
+	Proveedor: Kevin (AAA)
+	Subtotal: 329850
+	Total: 329850
+
+---> COMPRA No.7852
+	Fecha: 24/04/2021 06:50:20 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 1
+	Precio Und: 3701650
+	Proveedor: Kevin (AAA)
+	Subtotal: 3701650
+	Total: 3701650
+
+---> COMPRA No.9837
+	Fecha: 24/04/2021 06:51:11 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 1
+	Precio Und: 3665
+	Proveedor: Kevin (AAA)
+	Subtotal: 3665
+	Total: 3665
+
+---> COMPRA No.3932
+	Fecha: 24/04/2021 06:52:47 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 2
+	Precio Und: 3665
+	Proveedor: Kevin (AAA)
+	Subtotal: 7330
+	Total: 7330
+
+---> COMPRA No.3168
+	Fecha: 24/04/2021 06:53:41 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 2
+	Precio Und: 300000
+	Proveedor: Pepe (A)
+	Subtotal: 600000
+	Total: 606000
+
+---> COMPRA No.9256
+	Fecha: 24/04/2021 07:20:40 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 2
+	Precio Und: 14660
+	Proveedor: Juan (A)
+	Subtotal: 29320
+	Total: 29320
+
+---> COMPRA No.4929
+	Fecha: 24/04/2021 07:20:47 p. m.
+	Producto: Termo
+	Código: 6
+	Cantidad: 3
+	Precio Und: 10000
+	Proveedor: Florencio (AAA)
+	Subtotal: 30000
+	Total: 30600
+
+---> COMPRA No.4140
+	Fecha: 24/04/2021 07:21:09 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 3
+	Precio Und: 10995
+	Proveedor: Kevin (AAA)
+	Subtotal: 32985
+	Total: 32985
+
+---> COMPRA No.6067
+	Fecha: 24/04/2021 07:21:16 p. m.
+	Producto: Termo
+	Código: 6
+	Cantidad: 5
+	Precio Und: 10000
+	Proveedor: Pepe (A)
+	Subtotal: 50000
+	Total: 50500
+
+---> COMPRA No.9679
+	Fecha: 24/04/2021 07:23:48 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 2
+	Precio Und: 18325
+	Proveedor: Kevin (AAA)
+	Subtotal: 36650
+	Total: 36650
+
+---> COMPRA No.4148
+	Fecha: 24/04/2021 07:23:59 p. m.
+	Producto: Termo
+	Código: 6
+	Cantidad: 2
+	Precio Und: 10000
+	Proveedor: Pepe (A)
+	Subtotal: 20000
+	Total: 20200
+
+---> COMPRA No.7113
+	Fecha: 24/04/2021 07:33:53 p. m.
+	Producto: Bola Béisbol
+	Código: 3
+	Cantidad: 2
+	Precio Und: 3000
+	Proveedor: Pepe (A)
+	Subtotal: 6000
+	Total: 6060
+
+---> COMPRA No.9679
+	Fecha: 24/04/2021 07:35:43 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 2
+	Precio Und: 10995
+	Proveedor: Kevin (AAA)
+	Subtotal: 21990
+	Total: 21990
+
+---> COMPRA No.6723
+	Fecha: 24/04/2021 07:37:30 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 2
+	Precio Und: 10995
+	Proveedor: Kevin (AAA)
+	Subtotal: 21990
+	Total: 21990
+
+---> COMPRA No.8500
+	Fecha: 24/04/2021 07:38:51 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 2
+	Precio Und: 10995
+	Proveedor: Kevin (AAA)
+	Subtotal: 21990
+	Total: 21990
+
+---> COMPRA No.652
+	Fecha: 24/04/2021 07:49:53 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 2
+	Precio Und: 10995
+	Proveedor: Kevin (AAA)
+	Subtotal: 21990
+	Total: 21990
+
+---> COMPRA No.3118
+	Fecha: 24/04/2021 07:51:30 p. m.
+	Producto: Termo
+	Código: 6
+	Cantidad: 2
+	Precio Und: 1000
+	Proveedor: Pepe (A)
+	Subtotal: 2000
+	Total: 2020
+
+---> COMPRA No.3185
+	Fecha: 24/04/2021 07:52:14 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 2
+	Precio Und: 10995
+	Proveedor: Kevin (AAA)
+	Subtotal: 21990
+	Total: 21990
+
+---> COMPRA No.9131
+	Fecha: 24/04/2021 07:52:19 p. m.
+	Producto: Termo
+	Código: 6
+	Cantidad: 4
+	Precio Und: 18325
+	Proveedor: Kevin (AAA)
+	Subtotal: 73300
+	Total: 73300
+
+---> COMPRA No.3160
+	Fecha: 2/05/2021 4:00:41 p. m.
+	Producto: Portería
+	Código: 2
+	Cantidad: 1
+	Precio Und: 84295
+	Proveedor: Juan (A)
+	Subtotal: 84295
+	Total: 84295
+
+---> COMPRA No.3276
+	Fecha: 2/05/2021 5:40:56 p. m.
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 5
+	Precio Und: 84295
+	Proveedor: Kevin (AAA)
+	Subtotal: 421475
+	Total: 421475
+
+---> COMPRA No.1524
+	Fecha: 11/4/2021 11:49:18 AM
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 2
+	Precio Und: 200
+	Proveedor: Florencio (AAA)
+	Subtotal: 400
+	Total: 408

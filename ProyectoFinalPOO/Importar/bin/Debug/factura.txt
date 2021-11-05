@@ -1,0 +1,17 @@
+---> Venta No.4628
+	Fecha: 4/19/2021 6:40:30 PM
+	Cliente: carlos
+	Email: carlos@hotmail.com
+
+	Producto: balon
+	Código: 111
+	Cantidad: 5
+	Precio Und: 32500
+
+	Producto: zapatos
+	Código: 113
+	Cantidad: 13
+	Precio Und: 13000
+
+	Subtotal Neto: 331500
+	Total: 384429.5

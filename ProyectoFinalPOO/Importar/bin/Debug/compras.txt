@@ -1,0 +1,9 @@
+---> COMPRA No.9040
+	Fecha: 4/19/2021 6:40:30 PM
+	Producto: balon
+	Código: 111
+	Cantidad: 10
+	Precio Und: 25000
+	Proveedor: kevin (AA)
+	Subtotal: 250000
+	Total: 255000
