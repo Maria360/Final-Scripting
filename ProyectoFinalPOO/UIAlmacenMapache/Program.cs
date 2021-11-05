@@ -20,11 +20,11 @@ namespace UIAlmacenMapache
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmMainMenu());
         }
-        public static void Music()
+        /*public static void Music()
         {
             System.Media.SoundPlayer player = new System.Media.SoundPlayer();
             player.SoundLocation = "bgm.wav";
             player.Play();
-        }
+        }*/
     }
 }
