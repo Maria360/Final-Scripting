@@ -1,0 +1,12 @@
+---> Venta No.2160
+	Fecha: 11/4/2021 11:49:52 AM
+	Cliente: a
+	Email: @
+
+	Producto: Balón Fútbol
+	Código: 1
+	Cantidad: 1
+	Precio Und: 260
+
+	Subtotal Neto: 260
+	Total: 309.4

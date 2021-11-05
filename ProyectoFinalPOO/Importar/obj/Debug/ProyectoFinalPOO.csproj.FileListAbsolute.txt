@@ -1,0 +1,31 @@
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\bin\Debug\Importar.exe.config
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\bin\Debug\Importar.exe
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\bin\Debug\Importar.pdb
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\obj\Debug\ProyectoFinalPOO.csprojAssemblyReference.cache
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\obj\Debug\ProyectoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\obj\Debug\Importar.exe
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\obj\Debug\Importar.pdb
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\obj\Debug\Importar.Form1.resources
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\obj\Debug\Importar.Properties.Resources.resources
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\Importar\obj\Debug\ProyectoFinalPOO.csproj.GenerateResource.cache
+D:\braya\Downloads\university\4TO\POO\ProyectoFinalPOO\Importar\bin\Debug\Importar.exe.config
+D:\braya\Downloads\university\4TO\POO\ProyectoFinalPOO\Importar\bin\Debug\Importar.exe
+D:\braya\Downloads\university\4TO\POO\ProyectoFinalPOO\Importar\bin\Debug\Importar.pdb
+D:\braya\Downloads\university\4TO\POO\ProyectoFinalPOO\Importar\obj\Debug\ProyectoFinalPOO.csprojAssemblyReference.cache
+D:\braya\Downloads\university\4TO\POO\ProyectoFinalPOO\Importar\obj\Debug\ProyectoFinalPOO.csproj.CoreCompileInputs.cache
+D:\braya\Downloads\university\4TO\POO\ProyectoFinalPOO\Importar\obj\Debug\Importar.exe
+D:\braya\Downloads\university\4TO\POO\ProyectoFinalPOO\Importar\obj\Debug\Importar.pdb
+C:\Users\isago\Desktop\ProyectoFinalPOO\Importar\obj\Debug\ProyectoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\isago\Desktop\ProyectoFinalPOO\Importar\obj\Debug\Importar.exe
+C:\Users\isago\Desktop\ProyectoFinalPOO\Importar\obj\Debug\Importar.pdb
+C:\Users\isago\Desktop\ProyectoFinalPOO\Importar\bin\Debug\Importar.exe.config
+C:\Users\isago\Desktop\ProyectoFinalPOO\Importar\bin\Debug\Importar.exe
+C:\Users\isago\Desktop\ProyectoFinalPOO\Importar\bin\Debug\Importar.pdb
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\ProyectoFinalPOO\Importar\bin\Debug\Importar.exe.config
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\ProyectoFinalPOO\Importar\bin\Debug\Importar.exe
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\ProyectoFinalPOO\Importar\bin\Debug\Importar.pdb
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\ProyectoFinalPOO\Importar\obj\Debug\ProyectoFinalPOO.csprojAssemblyReference.cache
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\ProyectoFinalPOO\Importar\obj\Debug\ProyectoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\ProyectoFinalPOO\Importar\obj\Debug\Importar.exe
+C:\Users\WorkStation Pro\Desktop\UNIVERSIDAD\CUARTO SEMESTRE (2021-1)\POO\Proyecto Grupal Final\ProyectoFinalPOO\Importar\obj\Debug\Importar.pdb
+C:\Users\isago\Desktop\ProyectoFinalPOO\Importar\obj\Debug\ProyectoFinalPOO.csproj.AssemblyReference.cache

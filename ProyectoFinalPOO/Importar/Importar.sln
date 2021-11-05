@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinalPOO", "ProyectoFinalPOO.csproj", "{6830D8A2-592F-458F-AE7E-54BFB5118DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIAlmacenMapache", "..\UIAlmacenMapache\UIAlmacenMapache.csproj", "{9DCD9AFD-9E65-49EB-A2C6-BE2A68F98F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6830D8A2-592F-458F-AE7E-54BFB5118DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6830D8A2-592F-458F-AE7E-54BFB5118DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6830D8A2-592F-458F-AE7E-54BFB5118DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6830D8A2-592F-458F-AE7E-54BFB5118DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCD9AFD-9E65-49EB-A2C6-BE2A68F98F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCD9AFD-9E65-49EB-A2C6-BE2A68F98F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCD9AFD-9E65-49EB-A2C6-BE2A68F98F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCD9AFD-9E65-49EB-A2C6-BE2A68F98F21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98677CCC-8765-4C05-B88C-D5F58D111015}
+	EndGlobalSection
+EndGlobal

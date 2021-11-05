@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9DCD9AFD-9E65-49EB-A2C6-BE2A68F98F21}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UIAlmacenMapache</RootNamespace>
+    <AssemblyName>UIAlmacenMapache</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCompra.Designer.cs">
+      <DependentUpon>FrmCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmail.Designer.cs">
+      <DependentUpon>FrmEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEndMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEndMenu.Designer.cs">
+      <DependentUpon>FrmEndMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainMenu.Designer.cs">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCliente.Designer.cs">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporte.Designer.cs">
+      <DependentUpon>FrmReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCompra.resx">
+      <DependentUpon>FrmCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmail.resx">
+      <DependentUpon>FrmEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEndMenu.resx">
+      <DependentUpon>FrmEndMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainMenu.resx">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporte.resx">
+      <DependentUpon>FrmReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="FrmCliente.resx">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAPAHCE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\72af62747049791c7ecd0a46e4581645.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balon-futbol-promocional-pvc-personalizado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\porteria-de-futbol-sg-500-talla-m-azul-marino-naranja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bate-beisbol-aluminio-elk-sport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dep_0032.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_20383739-stock-photo-ball-baseball-game.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitfutbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25-set-de-b-isbol-adolescentes-adultos-bate-de-b-isbol-Kit-con-1-bate-y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34264477322-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large-Tapete_Yoga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\580b57fbd9996e24bc43bcb0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapache2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b3913301ef93b831cf286f5e7965684a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raccoon_PNG16969.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Importar\ProyectoFinalPOO.csproj">
+      <Project>{6830d8a2-592f-458f-ae7e-54bfb5118de3}</Project>
+      <Name>ProyectoFinalPOO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fdp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fdp2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fdp3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fdp4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\racoon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
